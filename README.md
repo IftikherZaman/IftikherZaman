@@ -11,10 +11,10 @@
   <a href="https://github.com/IftikherZaman">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github">
   </a>
-  <a href="https://linkedin.com/in/iftikher zaman">
+  <a href="https://linkedin.com/in/iftikherzaman">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   <a href="https://linkedin.com/in/iftikher zaman">
+   <a href="https://disputelens.netlify.app">
     <img src="https://img.shields.io/badge/Dispute_Lens-fb9317" alt="Dispute-Lens-ai" >
   </a>
  
