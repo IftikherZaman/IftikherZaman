@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 🚀, I'm Iftikher Zaman</h1>
 
-<h3 align="center">3rd Year Comp. Engineering Student @ UofT || Founder @ DisputeLens || Fellow @ The Entreprenuership Hatchery</h3>
+<h3 align="center">3rd Year Comp. Eng Student @ UofT | Founder @ DisputeLens | Fellow @ The Entreprenuership Hatchery</h3>
 
 <p align="center">
   <a href="https://iftikherzaman.netlify.app">
