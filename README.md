@@ -1,17 +1,34 @@
-# <h1 align="center">Hi 🚀, I'm Iftikher Zaman</h1>
-<h3 align="center">3rd Computer Engineering Student @ UofTEng | Founder @ DisputeLens | Fellow @ The Entreprenuership Hatchery</h3>
+# Hi there, I'm Iftikher Zaman 🚀
 
-- 💻 I'm currently working on developing the [MVP](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP) for Dispute Lens
-  
-- 📚 I'm currently learning **Operating Systems (ECE344) and Data Structure & Algorithms**
-  
-- 🔍 Learn more about [Dispute Lens](https://disputelens.netlify.app)
-  
-- 🛠️ All of my projects are available at [https://iftikherzaman.netlify.app](https://iftikherzaman.netlify.app)
-  
-- 📧 How to reach me **iftikherzaman.chowdhury@mail.utoronto.ca**
+## 🎓 Computer Engineering Student | 💡 Innovator | 🌱 Lifelong Learner
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iftikher zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iftikher zaman" height="30" width="40" /></a>
-</p>
+Currently pursuing my Bachelor's in Computer Engineering at the University of Toronto. I'm passionate about leveraging technology to solve real-world problems and drive innovation.
+
+### 🔭 Current Focus
+- Developing the MVP for [DisputeLens](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP), a Renovation Quote Analysis tool
+- Exploring the depths of Operating Systems and Data Structures & Algorithms
+
+### 🛠️ Technical Skills
+- **Languages:** C++, C, Python, Assembly, Verilog, HTML/CSS, JavaScript
+- **Frameworks & Tools:** React, Next.js, Flask, Git, SQL
+
+### 🏆 Achievements
+- UofT Engineering International Scholar
+- The Entrepreneurship Hatchery's NEST Fellow 2024
+- 2nd place at EWB Cyber Ethics Hackathon
+
+### 🚀 Notable Projects
+- [Haptic Speak](https://devpost.com/software/haptic-speak): An Android app for deaf-blind communication
+- [Muz Map](https://github.com/yourusername/muz-map): A GIS app for Muslims in Canada
+- [Head Soccer Game](https://github.com/yourusername/head-soccer-game): Developed on DE1-Soc FPGA
+
+### 🌟 Leadership
+- Founder of DisputeLens
+- Director of External Affairs, Bangladesh Student's Association at UofT
+
+### 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/iftikher-zaman)
+- [Portfolio](https://iftikherzaman.netlify.app)
+- Email: iftikherzaman.chowdhury@mail.utoronto.ca
+
+*"Innovating at the intersection of technology and entrepreneurship to create meaningful solutions."*
