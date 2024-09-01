@@ -30,9 +30,9 @@
   
 - 📚 I'm currently learning **Operating Systems (ECE344) and Data Structure & Algorithms**
   
-- 🔍 Learn more about [Dispute Lens](https://disputelens.netlify.app)
+- 🔍 Learn more about my startup [Dispute Lens](https://disputelens.netlify.app)
   
-- 🛠️ All of my projects are available at [https://iftikherzaman.netlify.app](https://iftikherzaman.netlify.app)
+- 🛠️ All of my projects are available at my [portfolio](https://iftikherzaman.netlify.app/#project)
   
 - 📧 Reach me @ **iftikherzaman.chowdhury@mail.utoronto.ca**
 
