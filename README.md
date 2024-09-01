@@ -26,11 +26,15 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-- 💻 I'm currently working on [developing the MVP for Dispute Lens](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP)
+- 💻 I'm currently working on developing the [MVP](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP) for Dispute Lens
+  
 - 📚 I'm currently learning **Operating Systems (ECE344) and Data Structure & Algorithms**
+  
 - 🔍 Learn more about [Dispute Lens](https://disputelens.netlify.app)
+  
 - 🛠️ All of my projects are available at [https://iftikherzaman.netlify.app](https://iftikherzaman.netlify.app)
-- 📧 How to reach me **iftikherzaman.chowdhury@mail.utoronto.ca**
+  
+- 📧 Reach me @ **iftikherzaman.chowdhury@mail.utoronto.ca**
 
 
 
