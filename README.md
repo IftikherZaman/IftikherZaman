@@ -1,34 +1,45 @@
-# Hi there, I'm Iftikher Zaman 🚀
+<h1 align="center">Hi 🚀, I'm Iftikher Zaman</h1>
 
-## 🎓 Computer Engineering Student | 💡 Innovator | 🌱 Lifelong Learner
+<h3 align="center">3rd Computer Engineering Student @ UofTEng | Founder @ DisputeLens | Fellow @ The Entreprenuership Hatchery</h3>
 
-Currently pursuing my Bachelor's in Computer Engineering at the University of Toronto. I'm passionate about leveraging technology to solve real-world problems and drive innovation.
+<p align="center">
+  <img src="https://img.shields.io/badge/UofT-Computer%20Engineering-blue" alt="UofT Computer Engineering">
+  <img src="https://img.shields.io/badge/Founder-DisputeLens-green" alt="Founder DisputeLens">
+  <img src="https://img.shields.io/badge/Fellow-Entrepreneurship%20Hatchery-orange" alt="Fellow Entrepreneurship Hatchery">
+</p>
 
-### 🔭 Current Focus
-- Developing the MVP for [DisputeLens](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP), a Renovation Quote Analysis tool
-- Exploring the depths of Operating Systems and Data Structures & Algorithms
+<p align="center">
+  <a href="https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP">
+    <img src="https://img.shields.io/badge/Current%20Project-DisputeLens%20MVP-brightgreen" alt="Current Project">
+  </a>
+  <a href="https://disputelens.netlify.app">
+    <img src="https://img.shields.io/badge/Learn%20More-Dispute%20Lens-lightblue" alt="Learn More">
+  </a>
+  <a href="https://iftikherzaman.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-blueviolet" alt="Portfolio">
+  </a>
+</p>
 
-### 🛠️ Technical Skills
-- **Languages:** C++, C, Python, Assembly, Verilog, HTML/CSS, JavaScript
-- **Frameworks & Tools:** React, Next.js, Flask, Git, SQL
+---
 
-### 🏆 Achievements
-- UofT Engineering International Scholar
-- The Entrepreneurship Hatchery's NEST Fellow 2024
-- 2nd place at EWB Cyber Ethics Hackathon
+<h3 align="left">🚀 About Me</h3>
 
-### 🚀 Notable Projects
-- [Haptic Speak](https://devpost.com/software/haptic-speak): An Android app for deaf-blind communication
-- [Muz Map](https://github.com/yourusername/muz-map): A GIS app for Muslims in Canada
-- [Head Soccer Game](https://github.com/yourusername/head-soccer-game): Developed on DE1-Soc FPGA
+- 💻 I'm currently working on [developing the MVP for Dispute Lens](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP)
+- 📚 I'm currently learning **Operating Systems (ECE344) and Data Structure & Algorithms**
+- 🔍 Learn more about [Dispute Lens](https://disputelens.netlify.app)
+- 🛠️ All of my projects are available at [https://iftikherzaman.netlify.app](https://iftikherzaman.netlify.app)
+- 📧 How to reach me **iftikherzaman.chowdhury@mail.utoronto.ca**
 
-### 🌟 Leadership
-- Founder of DisputeLens
-- Director of External Affairs, Bangladesh Student's Association at UofT
+---
 
-### 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/iftikher-zaman)
-- [Portfolio](https://iftikherzaman.netlify.app)
-- Email: iftikherzaman.chowdhury@mail.utoronto.ca
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/iftikher zaman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iftikher zaman" height="30" width="40" />
+  </a>
+  <a href="mailto:iftikherzaman.chowdhury@mail.utoronto.ca">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
-*"Innovating at the intersection of technology and entrepreneurship to create meaningful solutions."*
+---
