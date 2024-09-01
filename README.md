@@ -14,6 +14,12 @@
   <a href="https://linkedin.com/in/iftikher zaman">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
+   <a href="https://linkedin.com/in/iftikher zaman">
+    < <img src="https://i.ibb.co/5Wp0BLD/Dispute-Lens-ai.png" alt="Dispute-Lens-ai" border="0">/>>
+  </a>
+ 
+
+
 </p>
 
 ---
