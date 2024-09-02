@@ -26,7 +26,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-- 💻 I'm currently working on developing the [MVP](https://github.com/IftikherZaman/DisputeLens-Quote-Analysis-MVP) for Dispute Lens
+- 💻 I'm currently working on developing the [MVP](https://checkyourquote.netlify.app) for Dispute Lens
   
 - 📚 I'm currently learning **Operating Systems (ECE344) and Data Structure & Algorithms**
   
